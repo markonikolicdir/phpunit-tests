@@ -6,6 +6,9 @@ namespace App;
 
 class Box
 {
+
+    public string $name;
+
     /**
      * @var array
      */
